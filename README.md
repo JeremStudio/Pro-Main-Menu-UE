@@ -1,34 +1,34 @@
-# Pro Main Menu V3 - Version gratuite
+# Pro Main Menu V3 - Free Version
 
-Bienvenue dans le dépôt GitHub de la version gratuite de Pro Main Menu V3. Ce projet est une alternative gratuite au Pro Main Menu V3 par Piontek, disponible sur Unreal Engine Marketplace['https://www.unrealengine.com/marketplace/en-US/product/pro-main-menu-pack'].
+Welcome to the GitHub repository of the free version of Pro Main Menu V3. This project is a free alternative to Pro Main Menu V3 by Piontek, available on the Unreal Engine Marketplace.
 
-## À propos du projet
+## About the Project
 
-Pro Main Menu V3 est un menu principal complet et intensivement conçu, construit avec le système CommonUI. Il comprend une prise en charge complète des manettes de jeu, des options de contrôle, d'audio, de graphiques et de reconfiguration des touches, et bien d'autres fonctionnalités.
+Pro Main Menu V3 is a complete and intensively designed main menu, built with the CommonUI system. It includes full support for game controllers, control options, audio, graphics, and key reconfiguration, among many other features.
 
-Cette version gratuite vise à aider ceux qui ne peuvent pas se permettre la version payante, tout en offrant une grande partie des mêmes fonctionnalités.
+This free version aims to help those who cannot afford the paid version, while offering a large part of the same features.
 
-## Caractéristiques
+## Features
 
-- Prise en charge complète des manettes de jeu
-- Options de contrôle, d'audio, de graphiques et de reconfiguration des touches
-- Construit avec le système CommonUI
-- Et bien plus encore !
+- Full support for game controllers
+- Control, audio, graphics, and key reconfiguration options
+- Built with the CommonUI system
+- And much more!
 
-## Comment utiliser
+## How to Use
 
-Téléchargez le projet et ouvrez-le dans Unreal Engine. Vous pouvez ensuite explorer le projet et l'utiliser comme base pour votre propre jeu.
+Download the project and open it in Unreal Engine. You can then explore the project and use it as a basis for your own game.
 
-## Contribuer
+## Contributing
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## Licence
+## License
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+This project is under the MIT license. See the `LICENSE` file for more details.
 
 ## Contact
 
-Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
+If you have any questions or comments, don't hesitate to contact me.
 
-Merci d'avoir consulté ce projet !
+Thank you for checking out this project!
